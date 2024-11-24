@@ -18,6 +18,12 @@ Windows .NET 4.8 运行库:
 
 ## 版权
 
-&emsp;&emsp;本项目之demo版为开源项目（但demo-yuri-installer开源），使用GNU2协议，Obfuscar插件之著作权属原作者。
+&emsp;&emsp;本项目之demo版为开源项目（但demo-yuri-installer开源），使用GNU2协议。
+
+## 要饭
+
+&emsp;&emsp;如果大大喜欢这个项目的话，烦请点个star请两瓶屌丝饮料支持一下（  
+&emsp;&emsp;作者也是有成本的呀，不过不强制大家啦，愿意给就给吧！
+![赞赏码](donate.png)
 
 Copyright © 2024 Shimada Mizuki. All Rights Reserved.
